@@ -1,6 +1,6 @@
 # RV32I Simulator
 
-![ci](../../actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rangy-vs/rv32i-simulator/actions/workflows/ci.yml/badge.svg)
 
 A two-pass **assembler** and **instruction-set simulator** for the RISC-V RV32I base integer ISA, in pure Python (no dependencies).
 
